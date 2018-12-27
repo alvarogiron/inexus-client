@@ -1,1 +1,1 @@
-# inexus-client
+# iNexus-Client
